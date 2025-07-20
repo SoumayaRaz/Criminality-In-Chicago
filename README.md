@@ -137,11 +137,10 @@ This study confirms a measurable but modest link between educational infrastruct
 The repository is organized as follows:
 
 📁 Project_Root/
-│
-├── 📄 README.md ← Project overview and documentation
-├── 📁 data/ ← Raw data: schools and crime datasets
-├── 📄 notebook ← Jupyter notebooks with modeling and analysis
-├── 📁 reports/ ← Project technical reports and summaries
-└── 📁 articles/ ← Scientific papers used to support hypotheses
+├── 📄 README.md → Project overview and documentation
+├── 📁 data/ → Raw data: schools and crime datasets
+├── 📄 Notebook → Jupyter notebooks with modeling and analysis
+├── 📁 Reports/ → Project technical reports and summaries
+└── 📁 articles/ → Scientific papers used to support hypotheses
 
 
