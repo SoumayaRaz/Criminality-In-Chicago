@@ -133,14 +133,14 @@ This study confirms a measurable but modest link between educational infrastruct
 
 ---
 
-## 📁 Repository Structure
-The repository is organized as follows:
+## 📂 Repository Structure
 
-📁 Project_Root/
-├── 📄 README.md → Project overview and documentation
-├── 📁 data/ → Raw data: schools and crime datasets
-├── 📄 Notebook → Jupyter notebooks with modeling and analysis
-├── 📁 Reports/ → Project technical reports and summaries
-└── 📁 articles/ → Scientific papers used to support hypotheses
+```bash
+.
+├── data/                # Raw dataset files
+├── Notebook             # Jupyter notebook with modeling and analysis
+├── Reports/             # Project technical reports and summaries
+├── Articles/            # Scientific papers used to support hypotheses
+└── README.md            # Readme 
 
 
